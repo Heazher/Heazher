@@ -3,4 +3,4 @@ Hewwo x3 I'm Heazher, and this is my new Git account. I come from a gitlab, but 
 <hr>
 Pronouns: she/her
 <hr>
-![](https://placewaifu.com/image/600)
+![If you can read this it mean I broke it.](https://placewaifu.com/image/600)
