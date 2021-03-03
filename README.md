@@ -1,5 +1,6 @@
-# Hewwo-Everybody
-Hewwo x3 I'm Heazher, and this is my new Git account. I come from a gitlab, but came here because someone need my help aparently. So probably never gonna post smth on this account, but actively working on [Yukiko Dev Team](https://github.com/Yukiko-Dev-Team)'s project x3 
+![Logo](https://i.pinimg.com/originals/50/86/93/508693174bfbdbcc9641c5b45bf46b07.jpg) 
+# Hewwo-Everybody! ＼(￣▽￣)／
+Hewwo o(≧▽≦)o I'm Heazher, I'm doing code sometimes... probably never gonna post anything on this account, but actively working on [Yukiko Dev Team](https://github.com/Yukiko-Dev-Team)'s project x3 
 ______________________________________
 Pronouns: she/her
 ______________________________________
