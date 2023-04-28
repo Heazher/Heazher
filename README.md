@@ -1,3 +1,5 @@
+![banner](https://i.imgur.com/b5uUmm6.jpeg)
+<h1 align="center">Hey 🙋‍♀️ I'm Takahashi! Welcome to my profile!</h1>
 # 💫 About Me:
 🔭 I’m currently working on Yukiko<br>🌱 I’m currently learning C++<br>💬 Ask me about Front-end Developement<br>⚡ Fun fact I'm no fun.
 
@@ -10,9 +12,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heazher&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Heazher&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Heazher&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Heazher&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<sup><sub>@Asthriona ❤</sub></sup>
